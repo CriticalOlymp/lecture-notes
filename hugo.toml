@@ -1,4 +1,4 @@
-baseURL = 'https://dudung.github.io/lecture-notes'
+baseURL = 'https://criticalolymp.github.io/lecture-notes'
 languageCode = 'en-us'
 title = 'lecture-notes'
 theme = ['hugo-chart', 'hugo-coder']
@@ -23,7 +23,7 @@ avatarURL = "img/avatar1.svg"
 
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2022
+since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
@@ -118,13 +118,13 @@ icon = "fa fa-2x fa-github"
 weight = 0
 url = "https://github.com/dudung/"
 
-[[params.social]]
+#[[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-inkscape"
 weight = 1
 url = "https://inkscape.org/~dudung/"
 
-[[params.social]]
+#[[params.social]]
 name = "Gitlab"
 icon = "fa fa-2x fa-gitlab"
 weight = 2
@@ -142,7 +142,7 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/6unpnp/"
 
-[[params.social]]
+#[[params.social]]
 name = "Medium"
 icon = "fa fa-2x fa-medium"
 weight = 5
@@ -154,7 +154,7 @@ icon = "fa fa-2x fa-instagram"
 weight = 6
 url = "https://www.instagram.com/6unpnp"
 
-[[params.social]]
+#[[params.social]]
 name = "Tumblr"
 icon = "fa fa-2x fa-tumblr"
 weight = 7
@@ -166,19 +166,19 @@ icon = "fa fa-2x fa-facebook"
 weight = 8
 url = "https://www.facebook.com/6unpnp"
 
-[[params.social]]
+#[[params.social]]
 name = "ResearchGate"
 icon = "fa fa-2x fa-researchgate"
 weight = 9
 url = "https://www.researchgate.net/profile/Sparisoma-Viridi"
 
-[[params.social]]
+#[[params.social]]
 name = "WordPress"
 icon = "fa fa-2x fa-wordpress"
 weight = 10
 url = "https://viridi.wordpress.com/"
 
-[[params.social]]
+#[[params.social]]
 name = "ORCID"
 icon = "fa fa-2x fa-orcid"
 weight = 11
@@ -190,25 +190,25 @@ icon = "fa fa-2x fa-youtube"
 weight = 12
 url = "https://www.youtube.com/channel/UCE6LwyjTcMSvce57UvyIbfA"
 
-[[params.social]]
+#[[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-flickr"
 weight = 13
 url = "https://www.flickr.com/photos/195637519@N06"
 
-[[params.social]]
+#[[params.social]]
 name = "Mastodon"
 icon = "fa fa-2x fa-mastodon"
 weight = 14
 url = "https://mastodon.world/@6unpnp"
 
-[[params.social]]
+#[[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-discord"
 weight = 15
 url = "https://discordhub.com/profile/1044507917623246919"
 
-[[params.social]]
+#[[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 16
